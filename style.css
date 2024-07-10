@@ -1,0 +1,135 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#header{
+    background-color:#1877F2 ;
+    height: 90px;
+}
+.c1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 47px;
+    position: relative;
+    top: 20px;
+    left: 80px;
+}
+#d1{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 12px;
+    right: 55px;
+    color: white;
+    line-height: 11px;
+    column-gap: 10px;
+}
+.c3{
+    color: rgb(167, 193, 249);
+    font-size: 10px;
+    top: 10px;
+}
+.login{
+    background-color: #0e448a;
+    border: rgb(3, 38, 103);
+    color: white;
+    padding: 8px;
+    text-align: center;
+    font-size: 12px;
+    position: absolute;
+    top: 42px;
+    right: 5px;
+
+}
+#d3{
+    color: #05254f;
+    font-size:20px ;
+    right: 10px;
+
+}
+.logo{
+    padding: 50px;
+    position: absolute;
+    height: 320px;
+    width: 545px;
+
+}
+#d4{position: absolute;
+top: 97px;
+right: 138px;
+color: black;
+line-height: 33px;
+}
+#d5{
+    position: absolute;
+    margin-top: 30px;
+    right: 211px;
+    padding: 11px;
+    border-radius: 5px;
+
+}
+#d6{
+    position: absolute;
+    margin-top: 31px;
+    right: 37px;
+    padding: 10px;
+    border-radius: 5px;
+}
+#d7{
+    position: absolute;
+    margin-top: 65px;
+    right: 100px;
+    padding: 10px;
+    width: 300px;
+}
+#d8{
+    position: absolute;
+    margin-top: 102px;
+    right: 34px;
+    padding: 10px;
+    border-radius: 5px;
+}
+#birthday{
+    position: absolute;
+    color: rgb(104, 100, 100);
+    top: 284px;
+    right: 328px;
+}
+#birthdate{
+    position: absolute;
+    margin-top: 172px;
+    right: 223px;
+}
+#Gender{
+    position: absolute;
+    color: rgb(104, 100, 100); 
+    top: 336px;
+    right:338px ;
+}
+#d9{
+    position: absolute;
+    top: 360px;
+    right: 171px;
+    word-spacing: 20px;
+}
+#d10{
+    width: 400px;
+    position: absolute;
+    top: 393px;
+    right: -8px;
+    line-height: 20px;
+    color: gray;
+}
+a{
+    text-decoration:  none ;
+    color: #3b5998;
+}
+#d11{
+    background-color: rgb(9, 137, 9);
+    color: white;
+    padding: 6px;
+    font-size: 16px;
+    position: absolute;
+    top: 465px;
+    right: 165px;
+}
